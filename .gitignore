@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Slide images & auto-generated narration
+slides/
+narration_*.mp3
+*.mp3
+
+# VS Code settings (optional)
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
